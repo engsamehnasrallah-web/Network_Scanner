@@ -1,4 +1,4 @@
-"# Network_Scanner" 
+# Network_Scanner
 
 ## Overview
 
@@ -21,13 +21,13 @@ Simple Python-based TCP Port Scanner.
 
 ~~~bash
 python scanner.py
+~~~
 
 ## Example
 Scan localhost from port 1 to 1000
 
 ## Example Output 
-![Scanner](Screenshots/V1.2.0.png)
-
+![Network Scanner Output](ScreenShots/V1.2.0.png)
 
 ## Feature Improvements
 
