@@ -1,13 +1,16 @@
 "# Network_Scanner" 
 
-Simple Python Network Scanner.
+## Overview
+
+Simple Python-based TCP Port Scanner.
 
 ## Features
 
 - Scan Single Host
 - Scan Custom Port Range
 - Detect Open Ports
-
+- Service Identification
+- Execution time statistics
 
 ## Technologies
 
@@ -19,13 +22,15 @@ Simple Python Network Scanner.
 ~~~bash
 python scanner.py
 
-# Example
+## Example
 Scan localhost from port 1 to 1000
+
+## Example Output 
+- ScreenShots/V1.2.0.png
 
 ## Feature Improvements
 
-* Multithreading 
-* Banner Grabbing 
-* Service Detection
-* Export Results
-
+- Multithreading 
+- Banner Grabbing 
+- Export Results
+- GUI Version
