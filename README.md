@@ -26,7 +26,7 @@ python scanner.py
 Scan localhost from port 1 to 1000
 
 ## Example Output 
-![image alt](https://github.com/engsamehnasrallah-web/Network_Scanner/blob/3c4cb6ef9659d42519b99f4095cfdf62d066fab5/ScreenShots/V1.2.0.png).
+![Network Scanner Output](ScreenShots/V1.2.0.png)
 
 ## Feature Improvements
 
