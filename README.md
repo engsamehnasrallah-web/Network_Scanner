@@ -26,7 +26,8 @@ python scanner.py
 Scan localhost from port 1 to 1000
 
 ## Example Output 
-- ScreenShots/V1.2.0.png
+![Scanner](Screenshots/V1.2.0.png)
+
 
 ## Feature Improvements
 
