@@ -14,6 +14,14 @@ start = int(input("Enter Start Port: "))
 end = int(input("Enter End Port: "))
 count = 0
 
+if start < 1 or end > 65535:
+    print("Ports must be between 1 and 65535")
+    exit()
+
+if start > end:
+    print("Start Port must be less than End Port")
+    exit()
+
 print(f"\nScanning Target: {target}\n")
     
 start_time = time.time()
